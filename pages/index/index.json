@@ -1,4 +1,4 @@
 {
-  "usingComponents": {
-  }
+  "navigationBarTitleText": "测试菜单",
+  "usingComponents": {}
 }
